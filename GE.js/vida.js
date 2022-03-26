@@ -1,4 +1,4 @@
-function sFim(params) {
+function sFim() {
     var briga =prompt("o que vai fazer?")
     if (briga=="B") {
         location.href="./html.html/fim.html"
