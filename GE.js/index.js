@@ -12,7 +12,7 @@ function guerreiro() {
     var guerreiro=prompt("tem certeza?")
        if (guerreiro=="sim")
         {
-            location.href ="../html.html/minha.html"
+            location.href ="./html.html/minha.html"
         console.log( "Bem-vinde")
        } else {
            console.log("desculpa")
@@ -22,7 +22,7 @@ function caçador() {
     var caçador=prompt("tem certeza?")
        if (caçador=="sim")
         {
-            location.href ="../html.html/nossa.html"
+            location.href ="./html.html/nossa.html"
         console.log( "Bem-vinde")
        } else {
            console.log("desculpa")
