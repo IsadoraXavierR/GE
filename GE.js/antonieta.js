@@ -1,4 +1,4 @@
-function pFim(params) {
+function pFim() {
     var sonho=prompt("o que você deseja fazer?")
        if (sonho=="Liberar os poderes"|| sonho=="C")
         {
