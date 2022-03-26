@@ -1,4 +1,4 @@
-function cavaleiro(params) {
+function cavaleiro() {
     var cavaleiro=prompt("o que ele faz?")
        if (cavaleiro=="Intervir"|| cavaleiro=="A"||cavaleiro=="intervir")
         {
