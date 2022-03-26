@@ -1,4 +1,4 @@
-function amigo(params) {
+function amigo() {
     var hist=prompt("o que você deseja fazer?")
        if (hist=="B")
         {
