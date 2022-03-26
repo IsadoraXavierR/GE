@@ -1,4 +1,4 @@
-function mae(params) {
+function mae() {
     var mae=prompt("o que você deseja fazer?")
        if (mae=="treinar com o Bartolomeu"|| mae=="A"||mae=="ir terinar")
         {
