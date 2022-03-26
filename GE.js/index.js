@@ -2,7 +2,7 @@ function bruxa(params) {
     var bruxa=prompt("se digitar (sim) Você se tornará uma bruxa rara e muito poderosa que é a mistura de uma bruxa com um caçador,quando seu pai descobre a verdade sobre vocês resolve fugir com vocês e acaba morrendo por vocês duas está preparado(a)?")
        if (bruxa=="sim")
         {
-            location.href ="jaca.html"
+            location.href ="./html.html/jaca.html"
         console.log( "Bem-vinde")
        } else {
            console.log("desculpa")
