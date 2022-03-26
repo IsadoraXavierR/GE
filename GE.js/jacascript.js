@@ -1,4 +1,4 @@
-function oFim(params) {
+function oFim() {
     var hist=prompt("o que você deseja fazer?")
        if (hist=="A")
         {
