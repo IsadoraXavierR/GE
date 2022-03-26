@@ -1,4 +1,4 @@
-function descuido(params) {
+function descuido() {
     var descuido=prompt("o que fazer?")
        if (descuido=="enfrentar"|| descuido=="B")
         {
