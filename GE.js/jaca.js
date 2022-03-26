@@ -1,4 +1,4 @@
-function angel(params) {
+function angel() {
     var angel=prompt("o que você deseja fazer?")
        if (angel=="Ajudar ele"|| angel=="B")
         {
