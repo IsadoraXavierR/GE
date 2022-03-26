@@ -2,7 +2,7 @@ function descuido() {
     var descuido=prompt("o que fazer?")
        if (descuido=="enfrentar"|| descuido=="B")
         {
-            location.href ="./html.html/lobo.html"
+            location.href ="./lobo.html"
         console.log( "é sobre isso")
        } else {
            console.log("desculpa")
