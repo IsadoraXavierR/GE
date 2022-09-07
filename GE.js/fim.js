@@ -2,3 +2,12 @@ var agradecimento = ("muito obrigada Inara e Thom por nos ajudar a chegar até a
 console.log(agradecimento);
 var esp = ("o guerrueiro sobreviveu ao dragão e virou um herio, bruxa matou a tia, e o caçador foi ficou super feliz com seu lobinho")
 console.log(esp);
+function Home {
+    var sonho=prompt("o que você deseja voltar ao inicio?")
+       if (sonho=="sim"|| sonho=="Sim")
+        {
+            location.href ="./index.html"
+       } else {
+          alert("você terminou")
+       }
+}
