@@ -1,9 +1,9 @@
 function armadura() {
         var arma=prompt("o que você deseja fazer?")
-           if (arma=="nada"|| arma=="A")
+           if (arma=="deixar ela viva"|| arma=="A"|| arma=="a"|| arma=="ficar com a armadura e deixar a bruxa viva")
             {
                 location.href ="./jacasript.html"
            } else {
-               alert("a bruxa te matou assim que você tentou empunhar a espada tente de novo");
+               alert("A bruxa era tão poderosa que te matou assim que você pensou em empunhar a espada contra ela");
     }
 }
